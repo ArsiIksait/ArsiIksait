@@ -1,6 +1,6 @@
 # Hi there nya~ 👋 
  
-<img align="right" src="https://github.com/ilyfairy/ilyfairy/raw/main/img/sleep_s.jpg"/>
+<img align="right" src="https://github.com/arsiiksait/arsiiksait/raw/main/nya1.jpg"/>
   
  你好呀~ 这里是 ArsiIksait, 你可以叫我猫猫. 最喜欢聊天和写代码了qwq   
   
