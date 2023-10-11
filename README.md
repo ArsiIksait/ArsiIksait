@@ -2,11 +2,11 @@
  
 <img align="right" src="https://github.com/arsiiksait/arsiiksait/raw/main/nya1.jpg"/>
   
- 你好呀~ 这里是 ArsiIksait, 你可以叫我猫猫. 最喜欢聊天和写代码了qwq   
+ 你好呀~ 这里是 ArsiIksait, 别名SakuraNeko，你可以叫我璎珞喵. 最喜欢聊天和写代码了qwq   
   
- - 🌱 喜欢的语言: C++,C#,Java,Batch
+ - 🌱 喜欢的语言: C#,Python,C++,Java
  
- - 🔭 正在学习的: C#,C++
+ - 🔭 正在学习的: Python,C#,C++,Unity Engine
  
  - 👯 希望和很多善良的人交朋友
  
@@ -19,8 +19,6 @@
  - 💕 如果更多人喜欢我写的小项目一定很令人开心
  
  - 喜欢的事情: 写的代码被夸奖，和好朋友一起玩游戏，和好朋友一起写代码
- 
- - 讨厌的事情: 聊天不理我的都是憨八嘎喵！一天都不回的那种，讨厌色狼，讨厌欺骗，讨厌欺负猫猫()
  ---
 
 # My Tags
